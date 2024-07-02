@@ -23,3 +23,24 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=c586f8&currStreakNum=18c72d&ring=18c72d&currStreakLabel=18c72d&sideNums=c586f8" />
 </p>
+
+
+## :computer: Technologies that I know
+
+         <br>
+               <p align="center">
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/HTML.png" />
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/css.png" />
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/JavaScript.png" />
+               </p>
+               <p align="center">
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/react.png" />
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/tailwind.png" />
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/firebase.png" />
+               </p>
+               <p align="center">
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/node.png" />
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/express.png" />
+                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/mongo.png" />
+               </p>
+               <br />
