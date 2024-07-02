@@ -26,8 +26,8 @@
 
 
 ## :computer: Technologies that I know
-
-         <br>
+<div>
+ <br>
                <p align="center">
                   <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/HTML.png" />
                   <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/css.png" />
@@ -44,3 +44,4 @@
                   <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/mongo.png" />
                </p>
                <br />
+</div>
