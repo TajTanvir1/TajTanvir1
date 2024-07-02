@@ -8,9 +8,18 @@
 
 <h1>Hi, I'm Tanvir Ahamed Jubayer</h1>
 
+<h2> About Me </h2>
+
+- 🔭 I’m currently seeking a job or inter as a fresher.  
+
+- 🌱 I’m currently learning Next.js.
+
+- 💬 Talk to me about React, Node, JavaScript etc.
+ - 📫 Reach me at **tanvirah1223@gmail.com**  
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=00F0FF&currStreakNum=18c72d&ring=18c72d&currStreakLabel=18c72d&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=c586f8&currStreakNum=18c72d&ring=18c72d&currStreakLabel=18c72d&sideNums=c586f8" />
 </p>
