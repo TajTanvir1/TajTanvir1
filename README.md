@@ -21,12 +21,12 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=c586f8&currStreakNum=64FEB1 &ring=64FEB1&currStreakLabel=18c72d&sideNums=87DDFB" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=00F0FF&currStreakNum=18c72d&ring=18c72d&currStreakLabel=18c72d&sideNums=00F0FF" />
 </p>
 
 
 ## :computer: Technologies that I know
- <br>
+ <br />
  <p align="center">
   <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/HTML.png" />
   <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/css.png" />
