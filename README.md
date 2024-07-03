@@ -26,22 +26,20 @@
 
 
 ## :computer: Technologies that I know
-<div>
  <br>
-               <p align="center">
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/HTML.png" />
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/css.png" />
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/JavaScript.png" />
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/tailwind.png" />
-               </p>
-               <p align="center">
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/react.png" />
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/firebase.png" />
-               </p>
-               <p align="center">
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/node.png" />
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/express.png" />
-                  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/mongo.png" />
-               </p>
-               <br />
-</div>
+ <p align="center">
+  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/HTML.png" />
+  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/css.png" />
+  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/JavaScript.png" />
+  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/tailwind.png" />
+ </p>
+ <p align="center">
+    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/react.png" />
+    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/firebase.png" />
+ </p>
+ <p align="center">
+    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/node.png" />
+    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/express.png" />
+    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/mongo.png" />
+  </p>
+ <br />
