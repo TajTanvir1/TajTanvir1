@@ -21,38 +21,17 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=00F0FF&currStreakNum=18c72d&ring=18c72d&currStreakLabel=18c72d&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TajTanvir1&theme=react&hide_border=true&background=0D1117&stroke=6af8fd&fire=ffde4b&sideLabels=e1a5fc&currStreakNum=18c72d&ring=85ebcb&currStreakLabel=85ebcb&sideNums=e1a5fc" />
 </p>
 
 
 ## :computer: Technologies that I know
- <br />
- <p align="center">
-  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/HTML.png" />
-  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/css.png" />
-  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/JavaScript.png" />
-  <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/tailwind.png" />
- </p>
- <p align="center">
-    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/react.png" />
-    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/firebase.png" />
- </p>
- <p align="center">
-    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/node.png" />
-    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/express.png" />
-    <img src="https://github.com/TajTanvir1/TajTanvir1/tree/main/icons/mongo.png" />
-  </p>
- <br />
 
- 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/HTML.png"/>
+<img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/css.png"/>
+<img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/JavaScript.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
