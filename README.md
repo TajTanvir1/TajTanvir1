@@ -36,7 +36,6 @@
 <p align="center">
 <img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/react.png"/>
 <img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/tailwind.png"/>
-<img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/Bootsrap.png"/>
 <img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/firebase.png"/>
 </p>
 <p align="center">
