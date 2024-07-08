@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src = "https://github.com/TajTanvir1/TajTanvir1/blob/main/hi.gif" width="50px" height="50px">, I'm Tanvir Ahamed</h1>  
-<h3 align="center">Web Developer (MERN Stack)</h3>  
+<h3 align="center">Fontend Web Developer (MERN Stack)</h3>  
 
 
 <h1>Hi, I'm Tanvir Ahamed Jubayer</h1>
