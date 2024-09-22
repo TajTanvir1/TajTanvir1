@@ -6,7 +6,7 @@
 <h3 align="center">Fontend Web Developer (MERN Stack)</h3>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TajTanvir1&label=Profile%20views&color=0e75b6&style=flat" alt="TajTanvir1" />
+  <img src="https://komarev.com/ghpvc/?username=TajTanvir1&label=Profile%20views&color=0C98AB&style=flat" alt="TajTanvir1" />
 </p>
 
 <h1>Hi, I'm Tanvir Ahamed Jubayer</h1>
