@@ -53,4 +53,4 @@
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tajtanvir1&bg_color=000000&color=ffffff&line=2574b1&point=e58a8a&area=true&hide_border=true)
 
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tajtanvir1&layout=compact&theme=theme_name)
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tajtanvir1&layout=compact&theme=blue-green)
