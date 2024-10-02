@@ -47,8 +47,7 @@
 <img src="https://github.com/TajTanvir1/TajTanvir1/blob/main/icons/express.png"/>
 </p><br/>
 
-| <a href="https://github.com/tajtanvir1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tajtanvir1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tanvir's github stats" /></a> | <a href="https://github.com/tajtanvir1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajtanvir1&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/tajtanvir1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tajtanvir1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tanvir's github stats" /></a> | <a href="https://github.com/tajtanvir1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajtanvir1&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tajtanvir1&bg_color=000000&color=ffffff&line=2574b1&point=e58a8a&area=true&hide_border=true)
 
